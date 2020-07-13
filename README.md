@@ -1,4 +1,14 @@
-### Hi there 👋
+<p align="center">
+<img src="https://media.giphy.com/media/l56OIvKENY4hnt7U95/giphy.gif">
+</p>
+
+### Hola 👋
+
+Welcome to your tape, um, no, welcome to my profile :innocent:	
+
+I am a backend developer :rocket:, an intern at [Kaloory](https://www.kaloory.com/) :teacher:, and also the Vice Chairperson of [CodeChef-VIT](https://https://github.com/codechefvit) :technologist:. Famous for being a mechanical engineer who codes :wink:.
+
+<!---Have something cool to share? Connect with me on-->
 
 <!--
 **RajatSablok/RajatSablok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
