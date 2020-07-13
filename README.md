@@ -8,8 +8,12 @@ Welcome to your tape, um, no, welcome to my profile :innocent:
 
 I am a backend developer :rocket:, an intern at [Kaloory](https://www.kaloory.com/) :teacher:, and also the Vice Chairperson of [CodeChef-VIT](https://https://github.com/codechefvit) :technologist:. Famous for being a mechanical engineer who codes :wink:.
 
-<!---Have something cool to share? Connect with me on-->
-
+Have something cool to share? Connect with me on \
+\
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_rajatsablok/)](https://twitter.com/_rajatsablok/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajat-sablok/)](https://www.linkedin.com/in/rajat-sablok/)
+[![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/_rajatsablok/)](https://www.instagram.com/_rajatsablok/)
+[![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/RajatSablok/)](https://www.github.com/RajatSablok/)
 <!--
 **RajatSablok/RajatSablok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
