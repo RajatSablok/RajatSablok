@@ -24,6 +24,10 @@ Have something cool to share? Connect with me on \
 [![Facebook](https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/rajat.sablok/)](https://www.facebook.com/rajat.sablok/)
 [![Hackerrank](https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/rajat_main06/)](https://www.hackerrank.com/rajat_main06/)
 [![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/RajatSablok/)](https://www.github.com/RajatSablok/)
+
+Also, thanks for being one of the ![VisitorCount](https://profile-counter.glitch.me/RajatSablok/count.svg) people to checkout my profile :heart:
+
+### Adiós!
 <!--
 **RajatSablok/RajatSablok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
