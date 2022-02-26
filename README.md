@@ -9,7 +9,7 @@
 
 Welcome to my profile :innocent:	
 
-I am a backend developer :rocket: and the Vice Chairperson of [CodeChef-VIT](https://https://github.com/codechefvit) :technologist:. Famous for being a mechanical engineer who codes :wink:.
+I am a software developer :rocket: and the Ex Vice Chairperson (2020-21) of [CodeChef-VIT](https://https://github.com/codechefvit) :technologist:. Famous for being a mechanical engineer who codes :wink:.
 
 ### We all know that you came here for these stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajatSablok&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
